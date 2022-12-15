@@ -51,4 +51,4 @@ def train(epoch):
 
 
 if __name__ == '__main__':
-    train(100)
+    train(1000)
